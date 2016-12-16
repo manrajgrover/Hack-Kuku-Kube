@@ -10,3 +10,7 @@
 3. Paste the copied code in the console
 4. Start the game and go back to console and hit enter to run the code.
 5. Sit back and get highest score.
+
+## License
+
+[MIT](https://github.com/ManrajGrover/Hack-Kuku-Kube/blob/master/LICENSE) © Manraj Singh
