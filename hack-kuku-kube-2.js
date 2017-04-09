@@ -1,5 +1,5 @@
 //starting the game by clicking the START button
-document.getElementsByTagName('button')[0].click()
+document.getElementsByClassName('btn btn-play btn-new')[0].click()
 //original code
 var findIt = function() {
   var hash = {};
