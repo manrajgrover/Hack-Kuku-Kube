@@ -1,6 +1,6 @@
-#starting the game by pressing the START button
+//starting the game by pressing the START button
 document.getElementByTagName('button')[0].click()
-#original script
+//original script
 var findIt = function(){
   var boxes = document.getElementById("box").getElementsByTagName("span");
   boxes[0].click();
