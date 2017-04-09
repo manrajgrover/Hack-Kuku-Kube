@@ -1,6 +1,3 @@
-//starting the game by clicking the START button
-document.getElementsByClassName('btn btn-play btn-new')[0].click()
-//original code
 var findIt = function() {
   var hash = {};
   var boxes = document.getElementById("box").getElementsByTagName("span");
